@@ -1,9 +1,9 @@
 # Entradas del archivo hosts para bloquear los servidores de anuncios de audio de Spotify.
-> *En Microsoft Windows **C:\Windows\System32\drivers\etc\hosts** 
+> -En Microsoft Windows **C:\Windows\System32\drivers\etc\hosts** 
 
-> *En GNU/Linux **/etc/hosts**
+> -En GNU/Linux **/etc/hosts**
 
-> *En Mac OS **/private/etc/hosts**
+> -En Mac OS **/private/etc/hosts**
 
 ### v1.0.96
 ```sh
